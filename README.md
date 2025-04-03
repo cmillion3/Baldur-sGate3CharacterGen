@@ -9,7 +9,7 @@ This is an early alpha version of a **Baldur's Gate 3 Character Generator**. The
 - Likes
 - Appearance Details
 
-Additionally, the program includes a feature to generate a backstory using a local **LLM**. However, users must manually set up **Ollama**(https://ollama.com/) to enable this functionality.
+Additionally, the program includes a feature to generate a backstory using a local **LLM**. However, users must manually set up [**Ollama**](https://ollama.com/) to enable this functionality.
 
 ## Screenshot
 ![Character Generator Preview](image.png)
