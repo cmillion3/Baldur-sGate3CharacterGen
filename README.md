@@ -57,9 +57,9 @@ Simply run the application from the Start Menu or Desktop shortcut.
 ### Manual Run (Python Script)
 Run the generator using:
 ```sh
-python main.py
+python main2.py
 ```
-If Ollama is set up, the program will attempt to generate a backstory.
+If Ollama is set up, the program will attempt to generate a backstory when you press the generate backstory button.
 
 ## Contributions
 Since this project is in early development, feedback and contributions are welcome! Feel free to submit issues and pull requests.
