@@ -15,7 +15,7 @@ Additionally, the program includes a feature to generate a backstory using a loc
 ✅ Fully random character generation (Race, Class, Background, Traits, etc.)  
 ✅ Local LLM integration for backstory generation (requires user setup)  
 ✅ Windows installer and executable for easy setup  
-🚧 **Planned Features:** UI improvements, customization options, and save/export functionality.
+🚧 **Planned Features:** UI improvements, customization options, and save/export functionality, images for each class/appearance combination, dieties for clerics, and early game playstyle choices like fighter fighting style, barbian bestial hearts, etc.
 
 ## Requirements
 - **Python 3.x** (for manual setup)
@@ -24,7 +24,7 @@ Additionally, the program includes a feature to generate a backstory using a loc
 
 ## Setup & Installation
 ### Option 1: Windows Installer (Recommended for Regular Users)
-1. Download the latest **installer (.exe)** from the [Releases](https://github.com/yourusername/bg3-character-generator/releases) page.
+1. Download the latest **installer (.exe)** from the [Releases](https://github.com/cmillion3/bg3-character-generator/releases) page.
 2. Run the installer and follow the instructions.
 3. Launch the program from the Start Menu or Desktop shortcut.
 
@@ -44,7 +44,7 @@ Additionally, the program includes a feature to generate a backstory using a loc
      ```sh
      ollama pull llama3:latest
      ```
-   - Ensure Ollama is running before launching the generator.
+   - Ensure Ollama is running before launching the generator!
 
 ## Usage
 ### Windows Users (Using the Installed Version)
