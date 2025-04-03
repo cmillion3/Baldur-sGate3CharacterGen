@@ -5,7 +5,7 @@ This is an early alpha version of a **Baldur's Gate 3 Character Generator**. The
 - Race
 - Class
 - Background
-- Personality Traits
+- Alignment
 - Likes
 - Appearance Details
 
