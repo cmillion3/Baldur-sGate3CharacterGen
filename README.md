@@ -34,7 +34,8 @@ Additionally, the program includes a feature to generate a backstory using a loc
    git clone https://github.com/yourusername/bg3-character-generator.git
    cd bg3-character-generator
    ```
-2. Install dependencies:
+~~2. Install dependencies:~~ 
+There is no requirements.txt right now, just pip install customtkinter, ollama, and pillow
    ```sh
    pip install -r requirements.txt
    ```
