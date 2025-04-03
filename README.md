@@ -46,7 +46,7 @@ There is no requirements.txt right now, just pip install customtkinter, ollama, 
    - Install Ollama: [https://ollama.ai/](https://ollama.ai/)
    - Download the model:
      ```sh
-     ollama pull llama3:latest
+     ollama pull llama3.2:latest
      ```
    - Ensure Ollama is running before launching the generator!
 
