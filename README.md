@@ -27,7 +27,7 @@ Additionally, the program includes a feature to generate a backstory using a loc
 
 ## Setup & Installation
 ### Option 1: Windows Installer (Recommended for Regular Users)
-1. Download the latest **installer (.exe)** from the [Releases](https://github.com/cmillion3/bg3-character-generator/releases) page.
+1. Download the latest **installer (.exe)** from the [Releases](https://github.com/cmillion3/Baldur-sGate3CharacterGen/releases/tag/0.1) page.
 2. Run the installer and follow the instructions.
 3. Launch the program from the Start Menu or Desktop shortcut.
 
