@@ -11,6 +11,9 @@ This is an early alpha version of a **Baldur's Gate 3 Character Generator**. The
 
 Additionally, the program includes a feature to generate a backstory using a local **LLM**. However, users must manually set up **Ollama** to enable this functionality.
 
+## Screenshot
+![Character Generator Preview](image.png)
+
 ## Features
 ✅ Fully random character generation (Race, Class, Background, Traits, etc.)  
 ✅ Local LLM integration for backstory generation (requires user setup)  
